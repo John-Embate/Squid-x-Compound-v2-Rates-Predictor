@@ -1,0 +1,1 @@
+# Squid-x-Compound-v2-Rates-Predictor
